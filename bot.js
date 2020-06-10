@@ -113,7 +113,7 @@ const AllAboutSongs =`
 
 const ContactMenu =`
 Если у Вас есть какие-нибудь вопросы, пожелания или предложениями, Вы всегда можете связаться с разработчиком данного бота.
-Адресс для связи: @artyomsyomin
+Адрес для связи: @artyomsyomin
 `;
 
 const MainMenuMessage =`
